@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "Hello ASUS"
+number1=11
+number2=11
+result=$((number1 + number2))
+echo "$result olds"
+
+
