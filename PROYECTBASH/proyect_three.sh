@@ -1,3 +1,6 @@
 #!/bin/bash
 namefolder=""
-read -p ""
+read -p "namefolder:" namefolder
+mkdir -p /Escritorio/$namefolder
+
+ 
