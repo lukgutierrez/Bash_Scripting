@@ -2,5 +2,5 @@
 #Author:@LUKGTZ
 
 mkdir LUCIANO
-cd LUCIANO
+cd PEPE
 pwd
